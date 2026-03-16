@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable_baseline_check_24.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\drawable\\baseline_check_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\layout_acitivity_settings.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\layout\\acitivity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\layout_activity_reports.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\layout\\activity_reports.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\layout_activity_transactions.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\layout\\activity_transactions.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable_baseline_check_box_24.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\drawable\\baseline_check_box_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable_baseline_manufacturing_24.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\drawable\\baseline_manufacturing_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable_baseline_poll_24.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\drawable\\baseline_poll_24.xml"
+    },
+    {
+        "merged": "com.example.budgy.app-debug-35:/layout_activity_profile.xml.flat",
+        "source": "com.example.budgy.app-main-37:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable_baseline_calendar_today_24.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\drawable\\baseline_calendar_today_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable_tab_selected.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\drawable\\tab_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable_circular_profile_background.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\drawable\\circular_profile_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable_login_logo.jpeg.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\drawable\\login_logo.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable_chip_selected.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\drawable\\chip_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable_chip_unselected.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\drawable\\chip_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-pngs-32:\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable_login_logo.jpg.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\drawable\\login_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable_baseline_house_24.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\drawable\\baseline_house_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable_spinner_background.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\drawable\\spinner_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-pngs-32:\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable_tab_unselected.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\drawable\\tab_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-pngs-32:\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\drawable\\baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-pngs-32:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-pngs-32:\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable_circular_chart.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\drawable\\circular_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-pngs-32:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable_circular_profile.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\drawable\\circular_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable_input_background.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\drawable\\input_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\drawable\\baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-main-37:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-debug-35:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\matth\\.gradle\\daemon\\9.2.1\\com.example.budgy.app-pngs-32:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    }
+]

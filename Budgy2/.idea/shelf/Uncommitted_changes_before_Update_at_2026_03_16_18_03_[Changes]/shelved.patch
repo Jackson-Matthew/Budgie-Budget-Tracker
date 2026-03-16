@@ -1,0 +1,663 @@
+Index: app/src/main/res/drawable/baseline_arrow_back_24.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/drawable/baseline_arrow_back_24.xml b/app/src/main/res/drawable/baseline_arrow_back_24.xml
+new file mode 100644
+--- /dev/null	(date 1773655303897)
++++ b/app/src/main/res/drawable/baseline_arrow_back_24.xml	(date 1773655303897)
+@@ -0,0 +1,5 @@
++<vector xmlns:android="http://schemas.android.com/apk/res/android" android:autoMirrored="true" android:height="24dp" android:tint="#000000" android:viewportHeight="24" android:viewportWidth="24" android:width="24dp">
++      
++    <path android:fillColor="@android:color/white" android:pathData="M20,11H7.83l5.59,-5.59L12,4l-8,8 8,8 1.41,-1.41L7.83,13H20v-2z"/>
++    
++</vector>
+Index: app/src/main/res/drawable/baseline_check_24.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/drawable/baseline_check_24.xml b/app/src/main/res/drawable/baseline_check_24.xml
+new file mode 100644
+--- /dev/null	(date 1773655340318)
++++ b/app/src/main/res/drawable/baseline_check_24.xml	(date 1773655340318)
+@@ -0,0 +1,5 @@
++<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="24dp" android:tint="#000000" android:viewportHeight="24" android:viewportWidth="24" android:width="24dp">
++      
++    <path android:fillColor="@android:color/white" android:pathData="M9,16.17L4.83,12l-1.42,1.41L9,19 21,7l-1.41,-1.41z"/>
++    
++</vector>
+Index: app/src/main/res/drawable/baseline_check_box_24.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/drawable/baseline_check_box_24.xml b/app/src/main/res/drawable/baseline_check_box_24.xml
+new file mode 100644
+--- /dev/null	(date 1773655373888)
++++ b/app/src/main/res/drawable/baseline_check_box_24.xml	(date 1773655373888)
+@@ -0,0 +1,5 @@
++<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="24dp" android:tint="#000000" android:viewportHeight="24" android:viewportWidth="24" android:width="24dp">
++      
++    <path android:fillColor="@android:color/white" android:pathData="M19,3L5,3c-1.11,0 -2,0.9 -2,2v14c0,1.1 0.89,2 2,2h14c1.11,0 2,-0.9 2,-2L21,5c0,-1.1 -0.89,-2 -2,-2zM10,17l-5,-5 1.41,-1.41L10,14.17l7.59,-7.59L19,8l-9,9z"/>
++    
++</vector>
+Index: app/src/main/res/drawable/baseline_house_24.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/drawable/baseline_house_24.xml b/app/src/main/res/drawable/baseline_house_24.xml
+new file mode 100644
+--- /dev/null	(date 1773646138682)
++++ b/app/src/main/res/drawable/baseline_house_24.xml	(date 1773646138682)
+@@ -0,0 +1,5 @@
++<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="24dp" android:tint="#000000" android:viewportHeight="24" android:viewportWidth="24" android:width="24dp">
++      
++    <path android:fillColor="@android:color/white" android:pathData="M19,9.3V4h-3v2.6L12,3L2,12h3v8h5v-6h4v6h5v-8h3L19,9.3zM10,10c0,-1.1 0.9,-2 2,-2s2,0.9 2,2H10z"/>
++    
++</vector>
+Index: app/src/main/res/drawable/baseline_calendar_today_24.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/drawable/baseline_calendar_today_24.xml b/app/src/main/res/drawable/baseline_calendar_today_24.xml
+new file mode 100644
+--- /dev/null	(date 1773655880483)
++++ b/app/src/main/res/drawable/baseline_calendar_today_24.xml	(date 1773655880483)
+@@ -0,0 +1,5 @@
++<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="24dp" android:tint="#000000" android:viewportHeight="24" android:viewportWidth="24" android:width="24dp">
++      
++    <path android:fillColor="@android:color/white" android:pathData="M20,3h-1L19,1h-2v2L7,3L7,1L5,1v2L4,3c-1.1,0 -2,0.9 -2,2v16c0,1.1 0.9,2 2,2h16c1.1,0 2,-0.9 2,-2L22,5c0,-1.1 -0.9,-2 -2,-2zM20,21L4,21L4,8h16v13z"/>
++    
++</vector>
+Index: app/src/main/res/drawable/circular_profile_background.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/drawable/circular_profile_background.xml b/app/src/main/res/drawable/circular_profile_background.xml
+new file mode 100644
+--- /dev/null	(date 1773650862808)
++++ b/app/src/main/res/drawable/circular_profile_background.xml	(date 1773650862808)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="utf-8"?>
++<shape xmlns:android="http://schemas.android.com/apk/res/android"
++    android:shape="oval">
++    <solid android:color="@color/medium_gray" />
++    <stroke
++        android:width="2dp"
++        android:color="@color/yellow_accent" />
++</shape>
+\ No newline at end of file
+Index: app/src/main/res/layout/activity_transactions.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/layout/activity_transactions.xml b/app/src/main/res/layout/activity_transactions.xml
+new file mode 100644
+--- /dev/null	(date 1773655542845)
++++ b/app/src/main/res/layout/activity_transactions.xml	(date 1773655542845)
+@@ -0,0 +1,194 @@
++<?xml version="1.0" encoding="utf-8"?>
++<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
++    xmlns:app="http://schemas.android.com/apk/res-auto"
++    android:layout_width="match_parent"
++    android:layout_height="match_parent"
++    android:background="@color/dark_gray"
++    android:orientation="vertical">
++
++    <!-- Header -->
++    <RelativeLayout
++        android:layout_width="match_parent"
++        android:layout_height="wrap_content"
++        android:background="@color/medium_gray"
++        android:padding="16dp">
++
++        <ImageButton
++            android:id="@+id/backButton"
++            android:layout_width="48dp"
++            android:layout_height="48dp"
++            android:layout_alignParentStart="true"
++            android:layout_centerVertical="true"
++            android:background="?attr/selectableItemBackgroundBorderless"
++            android:src="@drawable/baseline_arrow_back_24"
++            app:tint="@color/yellow_accent" />
++
++        <TextView
++            android:layout_width="wrap_content"
++            android:layout_height="wrap_content"
++            android:layout_centerInParent="true"
++            android:text="Add Transaction"
++            android:textColor="@color/yellow_accent"
++            android:textSize="20sp"
++            android:textStyle="bold" />
++
++        <ImageButton
++            android:id="@+id/saveButton"
++            android:layout_width="48dp"
++            android:layout_height="48dp"
++            android:layout_alignParentEnd="true"
++            android:layout_centerVertical="true"
++            android:background="?attr/selectableItemBackgroundBorderless"
++            android:src="@drawable/baseline_check_24"
++            app:tint="@color/yellow_accent" />
++    </RelativeLayout>
++
++    <!-- Transaction Type Selector -->
++    <LinearLayout
++        android:layout_width="match_parent"
++        android:layout_height="wrap_content"
++        android:layout_margin="16dp"
++        android:orientation="horizontal"
++        android:weightSum="2">
++
++        <TextView
++            android:id="@+id/expenseTab"
++            android:layout_width="0dp"
++            android:layout_height="48dp"
++            android:layout_weight="1"
++            android:layout_marginEnd="4dp"
++            android:background="@drawable/tab_selected"
++            android:gravity="center"
++            android:text="Expense"
++            android:textColor="@color/black"
++            android:textSize="16sp"
++            android:textStyle="bold" />
++
++        <TextView
++            android:id="@+id/incomeTab"
++            android:layout_width="0dp"
++            android:layout_height="48dp"
++            android:layout_weight="1"
++            android:layout_marginStart="4dp"
++            android:background="@drawable/tab_unselected"
++            android:gravity="center"
++            android:text="Income"
++            android:textColor="@color/text_primary"
++            android:textSize="16sp" />
++    </LinearLayout>
++
++    <!-- Input Form -->
++    <ScrollView
++        android:layout_width="match_parent"
++        android:layout_height="match_parent"
++        android:padding="16dp">
++
++        <LinearLayout
++            android:layout_width="match_parent"
++            android:layout_height="wrap_content"
++            android:orientation="vertical">
++
++            <!-- Amount -->
++            <TextView
++                android:layout_width="wrap_content"
++                android:layout_height="wrap_content"
++                android:text="Amount"
++                android:textColor="@color/text_secondary"
++                android:textSize="14sp" />
++
++            <EditText
++                android:id="@+id/amountInput"
++                android:layout_width="match_parent"
++                android:layout_height="wrap_content"
++                android:layout_marginTop="4dp"
++                android:layout_marginBottom="16dp"
++                android:background="@drawable/input_background"
++                android:hint="R 0.00"
++                android:inputType="numberDecimal"
++                android:padding="16dp"
++                android:textColor="@color/text_primary"
++                android:textColorHint="@color/text_secondary"
++                android:textSize="18sp" />
++
++            <!-- Category -->
++            <TextView
++                android:layout_width="wrap_content"
++                android:layout_height="wrap_content"
++                android:text="Category"
++                android:textColor="@color/text_secondary"
++                android:textSize="14sp" />
++
++            <Spinner
++                android:id="@+id/categorySpinner"
++                android:layout_width="match_parent"
++                android:layout_height="wrap_content"
++                android:layout_marginTop="4dp"
++                android:layout_marginBottom="16dp"
++                android:background="@drawable/spinner_background"
++                android:padding="8dp" />
++
++            <!-- Date -->
++            <TextView
++                android:layout_width="wrap_content"
++                android:layout_height="wrap_content"
++                android:text="Date"
++                android:textColor="@color/text_secondary"
++                android:textSize="14sp" />
++
++            <LinearLayout
++                android:layout_width="match_parent"
++                android:layout_height="wrap_content"
++                android:layout_marginTop="4dp"
++                android:layout_marginBottom="16dp"
++                android:background="@drawable/input_background"
++                android:clickable="true"
++                android:focusable="true"
++                android:orientation="horizontal"
++                android:padding="16dp">
++
++                <TextView
++                    android:id="@+id/dateText"
++                    android:layout_width="0dp"
++                    android:layout_height="wrap_content"
++                    android:layout_weight="1"
++                    android:text="Select date"
++                    android:textColor="@color/text_secondary"
++                    android:textSize="16sp" />
++
++                <ImageView
++                    android:layout_width="24dp"
++                    android:layout_height="24dp"
++                    android:src="@drawable/baseline_calendar_today_24"
++                    app:tint="@color/yellow_accent" />
++            </LinearLayout>
++
++
++
++
++
++            <!-- Note (Optional) -->
++            <TextView
++                android:layout_width="wrap_content"
++                android:layout_height="wrap_content"
++                android:text="Notes (Optional)"
++                android:textColor="@color/text_secondary"
++                android:textSize="14sp" />
++
++            <EditText
++                android:id="@+id/noteInput"
++                android:layout_width="match_parent"
++                android:layout_height="wrap_content"
++                android:layout_marginTop="4dp"
++                android:background="@drawable/input_background"
++                android:hint="Add a note..."
++                android:minLines="3"
++                android:gravity="top"
++                android:padding="16dp"
++                android:textColor="@color/text_primary"
++                android:textColorHint="@color/text_secondary"
++                android:textSize="14sp" />
++
++        </LinearLayout>
++    </ScrollView>
++
++</LinearLayout>
+\ No newline at end of file
+Index: app/src/main/java/com/example/budgy/TransactionsActivity.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/java/com/example/budgy/TransactionsActivity.kt b/app/src/main/java/com/example/budgy/TransactionsActivity.kt
+new file mode 100644
+--- /dev/null	(date 1773657503692)
++++ b/app/src/main/java/com/example/budgy/TransactionsActivity.kt	(date 1773657503692)
+@@ -0,0 +1,49 @@
++package com.example.budgy
++
++import android.os.Bundle
++import android.widget.Button
++import android.widget.TextView
++import android.widget.Toast
++import androidx.appcompat.app.AppCompatActivity
++import android.widget.ImageButton
++
++class TransactionsActivity : AppCompatActivity() {
++
++    override fun onCreate(savedInstanceState: Bundle?) {
++        super.onCreate(savedInstanceState)
++        setContentView(R.layout.activity_transactions)
++
++        // Get references using findViewById
++        val backButton = findViewById<ImageButton>(R.id.backButton)
++        val saveButton = findViewById<ImageButton>(R.id.saveButton)
++        val expenseTab = findViewById<TextView>(R.id.expenseTab)
++        val incomeTab = findViewById<TextView>(R.id.incomeTab)
++
++        // Back button - just close the activity
++        backButton.setOnClickListener {
++            finish()
++        }
++
++        // Save button - show a simple message and close
++        saveButton.setOnClickListener {
++            Toast.makeText(this, "Transaction added (demo)", Toast.LENGTH_SHORT).show()
++            finish()
++        }
++
++        // Expense tab - just change background color
++        expenseTab.setOnClickListener {
++            expenseTab.setBackgroundResource(R.drawable.tab_selected)
++            expenseTab.setTextColor(resources.getColor(android.R.color.black))
++            incomeTab.setBackgroundResource(R.drawable.tab_unselected)
++            incomeTab.setTextColor(resources.getColor(R.color.text_primary))
++        }
++
++        // Income tab - just change background color
++        incomeTab.setOnClickListener {
++            incomeTab.setBackgroundResource(R.drawable.tab_selected)
++            incomeTab.setTextColor(resources.getColor(android.R.color.black))
++            expenseTab.setBackgroundResource(R.drawable.tab_unselected)
++            expenseTab.setTextColor(resources.getColor(R.color.text_primary))
++        }
++    }
++}
+\ No newline at end of file
+Index: app/src/main/res/drawable/tab_selected.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/drawable/tab_selected.xml b/app/src/main/res/drawable/tab_selected.xml
+new file mode 100644
+--- /dev/null	(date 1773655052698)
++++ b/app/src/main/res/drawable/tab_selected.xml	(date 1773655052698)
+@@ -0,0 +1,5 @@
++<?xml version="1.0" encoding="utf-8"?>
++<shape xmlns:android="http://schemas.android.com/apk/res/android">
++    <solid android:color="@color/yellow_accent" />
++    <corners android:radius="8dp" />
++</shape>
+\ No newline at end of file
+Index: app/src/main/res/drawable/tab_unselected.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/drawable/tab_unselected.xml b/app/src/main/res/drawable/tab_unselected.xml
+new file mode 100644
+--- /dev/null	(date 1773655080299)
++++ b/app/src/main/res/drawable/tab_unselected.xml	(date 1773655080299)
+@@ -0,0 +1,5 @@
++<?xml version="1.0" encoding="utf-8"?>
++<shape xmlns:android="http://schemas.android.com/apk/res/android">
++    <solid android:color="@color/medium_gray" />
++    <corners android:radius="8dp" />
++</shape>
+\ No newline at end of file
+Index: app/src/main/java/com/example/budgy/SettingsActivity.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/java/com/example/budgy/SettingsActivity.kt b/app/src/main/java/com/example/budgy/SettingsActivity.kt
+new file mode 100644
+--- /dev/null	(date 1773658343328)
++++ b/app/src/main/java/com/example/budgy/SettingsActivity.kt	(date 1773658343328)
+@@ -0,0 +1,30 @@
++package com.example.budgy
++
++import android.os.Bundle
++import android.widget.ImageButton
++import android.widget.Switch
++import android.widget.Toast
++import androidx.appcompat.app.AppCompatActivity
++
++class SettingsActivity : AppCompatActivity() {
++
++    override fun onCreate(savedInstanceState: Bundle?) {
++        super.onCreate(savedInstanceState)
++        setContentView(R.layout.activity_settings)
++
++        val backButton = findViewById<ImageButton>(R.id.backButton)
++        val lightModeSwitch = findViewById<Switch>(R.id.lightModeSwitch)
++
++        backButton.setOnClickListener {
++            finish()
++        }
++
++        lightModeSwitch.setOnCheckedChangeListener { _, isChecked ->
++            if (isChecked) {
++                Toast.makeText(this, "Light Mode Enabled", Toast.LENGTH_SHORT).show()
++            } else {
++                Toast.makeText(this, "Dark Mode Enabled", Toast.LENGTH_SHORT).show()
++            }
++        }
++    }
++}
+\ No newline at end of file
+Index: app/src/main/res/drawable/input_background.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/drawable/input_background.xml b/app/src/main/res/drawable/input_background.xml
+new file mode 100644
+--- /dev/null	(date 1773655103312)
++++ b/app/src/main/res/drawable/input_background.xml	(date 1773655103312)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="utf-8"?>
++<shape xmlns:android="http://schemas.android.com/apk/res/android">
++    <solid android:color="@color/medium_gray" />
++    <corners android:radius="8dp" />
++    <stroke
++        android:width="1dp"
++        android:color="@color/light_gray" />
++</shape>
+\ No newline at end of file
+Index: app/src/main/res/layout/activity_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/layout/activity_settings.xml b/app/src/main/res/layout/activity_settings.xml
+new file mode 100644
+--- /dev/null	(date 1773659639124)
++++ b/app/src/main/res/layout/activity_settings.xml	(date 1773659639124)
+@@ -0,0 +1,113 @@
++<?xml version="1.0" encoding="utf-8"?>
++<LinearLayout
++    xmlns:android="http://schemas.android.com/apk/res/android"
++    android:layout_width="match_parent"
++    android:layout_height="match_parent"
++    android:orientation="vertical"
++    android:background="@color/dark_gray">
++
++    <RelativeLayout
++        android:layout_width="match_parent"
++        android:layout_height="wrap_content"
++        android:padding="16dp"
++        android:background="@color/medium_gray">
++
++        <ImageButton
++            android:id="@+id/backButton"
++            android:layout_width="48dp"
++            android:textColor="@color/yellow_accent"
++            android:layout_height="48dp"
++            android:src="@drawable/baseline_arrow_back_24"
++            android:tint="@color/yellow_accent"
++            android:background="?attr/selectableItemBackgroundBorderless"/>
++
++        <TextView
++            android:layout_centerInParent="true"
++            android:text="Settings"
++            android:textSize="20sp"
++            android:textStyle="bold"
++            android:textColor="@color/yellow_accent"
++            android:layout_width="wrap_content"
++            android:layout_height="wrap_content"/>
++    </RelativeLayout>
++
++    <LinearLayout
++        android:layout_width="match_parent"
++        android:layout_height="wrap_content"
++        android:orientation="vertical"
++        android:padding="20dp">
++
++        <TextView
++            android:layout_width="wrap_content"
++            android:layout_height="wrap_content"
++            android:text="Currency"
++            android:textColor="@color/text_secondary" />
++
++        <Spinner
++            android:id="@+id/currencySpinner"
++            android:layout_width="match_parent"
++            android:layout_height="wrap_content" />
++
++        <TextView
++            android:layout_width="wrap_content"
++            android:layout_height="wrap_content"
++            android:layout_marginTop="16dp"
++            android:text="Country"
++            android:textColor="@color/text_secondary" />
++
++        <Spinner
++            android:id="@+id/countrySpinner"
++            android:layout_width="match_parent"
++            android:layout_height="wrap_content" />
++
++        <TextView
++            android:layout_width="wrap_content"
++            android:layout_height="wrap_content"
++            android:layout_marginTop="16dp"
++            android:text="Language"
++            android:textColor="@color/text_secondary" />
++
++        <Spinner
++            android:id="@+id/languageSpinner"
++            android:layout_width="match_parent"
++            android:layout_height="wrap_content" />
++
++        <LinearLayout
++            android:layout_width="match_parent"
++            android:layout_height="wrap_content"
++            android:layout_marginTop="20dp"
++            android:orientation="horizontal">
++
++            <TextView
++                android:layout_width="0dp"
++                android:layout_height="wrap_content"
++                android:layout_weight="1"
++                android:text="Light Mode"
++                android:textColor="@color/text_primary"
++                android:textSize="16sp" />
++
++            <Switch
++                android:id="@+id/lightModeSwitch"
++                android:layout_width="wrap_content"
++                android:layout_height="wrap_content" />
++        </LinearLayout>
++
++        <TextView
++            android:layout_width="wrap_content"
++            android:layout_height="wrap_content"
++            android:layout_marginTop="30dp"
++            android:text="About Us"
++            android:textColor="@color/yellow_accent"
++            android:textSize="18sp"
++            android:textStyle="bold" />
++
++        <TextView
++            android:layout_width="wrap_content"
++            android:layout_height="61dp"
++            android:layout_marginTop="8dp"
++            android:text="Budgie helps you track your income and expenses easily without any hassle. This is a Developer build and is still in progress."
++            android:textColor="@color/text_secondary" />
++
++    </LinearLayout>
++
++</LinearLayout>
+\ No newline at end of file
+Index: app/src/main/res/drawable/baseline_manufacturing_24.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/drawable/baseline_manufacturing_24.xml b/app/src/main/res/drawable/baseline_manufacturing_24.xml
+new file mode 100644
+--- /dev/null	(date 1773648527241)
++++ b/app/src/main/res/drawable/baseline_manufacturing_24.xml	(date 1773648527241)
+@@ -0,0 +1,5 @@
++<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="24dp" android:tint="#000000" android:viewportHeight="960" android:viewportWidth="960" android:width="24dp">
++      
++    <path android:fillColor="@android:color/white" android:pathData="M234,480L222,420Q210,415 199.5,409.5Q189,404 178,396L120,414L80,346L126,306Q124,293 124,280Q124,267 126,254L80,214L120,146L178,164Q189,156 199.5,150.5Q210,145 222,140L234,80L314,80L326,140Q338,145 348.5,150.5Q359,156 370,164L428,146L468,214L422,254Q424,267 424,280Q424,293 422,306L468,346L428,414L370,396Q359,404 348.5,409.5Q338,415 326,420L314,480L234,480ZM330.5,336.5Q354,313 354,280Q354,247 330.5,223.5Q307,200 274,200Q241,200 217.5,223.5Q194,247 194,280Q194,313 217.5,336.5Q241,360 274,360Q307,360 330.5,336.5ZM592,920L574,836Q557,830 542.5,821.5Q528,813 514,802L434,828L378,732L442,676Q440,658 440,640Q440,622 442,604L378,548L434,452L514,478Q528,467 542.5,458.5Q557,450 574,444L592,360L704,360L722,444Q739,450 753.5,458.5Q768,467 782,478L862,452L918,548L854,604Q856,622 856,640Q856,658 854,676L918,732L862,828L782,802Q768,813 753.5,821.5Q739,830 722,836L704,920L592,920ZM648,760Q698,760 733,725Q768,690 768,640Q768,590 733,555Q698,520 648,520Q598,520 563,555Q528,590 528,640Q528,690 563,725Q598,760 648,760Z"/>
++    
++</vector>
+Index: app/src/main/res/drawable/spinner_background.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/drawable/spinner_background.xml b/app/src/main/res/drawable/spinner_background.xml
+new file mode 100644
+--- /dev/null	(date 1773655122644)
++++ b/app/src/main/res/drawable/spinner_background.xml	(date 1773655122644)
+@@ -0,0 +1,17 @@
++<?xml version="1.0" encoding="utf-8"?>
++<selector xmlns:android="http://schemas.android.com/apk/res/android">
++    <item>
++        <shape>
++            <solid android:color="@color/medium_gray" />
++            <corners android:radius="8dp" />
++            <stroke
++                android:width="1dp"
++                android:color="@color/light_gray" />
++            <padding
++                android:left="16dp"
++                android:right="16dp"
++                android:top="12dp"
++                android:bottom="12dp" />
++        </shape>
++    </item>
++</selector>
+\ No newline at end of file
+Index: app/src/main/res/drawable/baseline_settings_24.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/drawable/baseline_settings_24.xml b/app/src/main/res/drawable/baseline_settings_24.xml
+new file mode 100644
+--- /dev/null	(date 1773649384582)
++++ b/app/src/main/res/drawable/baseline_settings_24.xml	(date 1773649384582)
+@@ -0,0 +1,5 @@
++<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="24dp" android:tint="#000000" android:viewportHeight="960" android:viewportWidth="960" android:width="24dp">
++      
++    <path android:fillColor="@android:color/white" android:pathData="M370,880L354,752Q341,747 329.5,740Q318,733 307,725L188,775L78,585L181,507Q180,500 180,493.5Q180,487 180,480Q180,473 180,466.5Q180,460 181,453L78,375L188,185L307,235Q318,227 330,220Q342,213 354,208L370,80L590,80L606,208Q619,213 630.5,220Q642,227 653,235L772,185L882,375L779,453Q780,460 780,466.5Q780,473 780,480Q780,487 780,493.5Q780,500 778,507L881,585L771,775L653,725Q642,733 630,740Q618,747 606,752L590,880L370,880ZM440,800L519,800L533,694Q564,686 590.5,670.5Q617,655 639,633L738,674L777,606L691,541Q696,527 698,511.5Q700,496 700,480Q700,464 698,448.5Q696,433 691,419L777,354L738,286L639,328Q617,305 590.5,289.5Q564,274 533,266L520,160L441,160L427,266Q396,274 369.5,289.5Q343,305 321,327L222,286L183,354L269,418Q264,433 262,448Q260,463 260,480Q260,496 262,511Q264,526 269,541L183,606L222,674L321,632Q343,655 369.5,670.5Q396,686 427,694L440,800ZM482,620Q540,620 581,579Q622,538 622,480Q622,422 581,381Q540,340 482,340Q423,340 382.5,381Q342,422 342,480Q342,538 382.5,579Q423,620 482,620ZM480,480L480,480Q480,480 480,480Q480,480 480,480L480,480L480,480L480,480Q480,480 480,480Q480,480 480,480Q480,480 480,480Q480,480 480,480L480,480L480,480L480,480Q480,480 480,480Q480,480 480,480L480,480L480,480L480,480Q480,480 480,480Q480,480 480,480L480,480L480,480L480,480Q480,480 480,480Q480,480 480,480Q480,480 480,480Q480,480 480,480L480,480L480,480L480,480Q480,480 480,480Q480,480 480,480L480,480Z"/>
++    
++</vector>
+Index: app/src/main/res/drawable/baseline_poll_24.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/drawable/baseline_poll_24.xml b/app/src/main/res/drawable/baseline_poll_24.xml
+new file mode 100644
+--- /dev/null	(date 1773646427317)
++++ b/app/src/main/res/drawable/baseline_poll_24.xml	(date 1773646427317)
+@@ -0,0 +1,5 @@
++<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="24dp" android:tint="#000000" android:viewportHeight="24" android:viewportWidth="24" android:width="24dp">
++      
++    <path android:fillColor="@android:color/white" android:pathData="M19,3L5,3c-1.1,0 -2,0.9 -2,2v14c0,1.1 0.9,2 2,2h14c1.1,0 2,-0.9 2,-2L21,5c0,-1.1 -0.9,-2 -2,-2zM9,17L7,17v-7h2v7zM13,17h-2L11,7h2v10zM17,17h-2v-4h2v4z"/>
++    
++</vector>
+Index: app/src/main/res/drawable/baseline_person_24.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/drawable/baseline_person_24.xml b/app/src/main/res/drawable/baseline_person_24.xml
+new file mode 100644
+--- /dev/null	(date 1773646653250)
++++ b/app/src/main/res/drawable/baseline_person_24.xml	(date 1773646653250)
+@@ -0,0 +1,5 @@
++<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="24dp" android:tint="#000000" android:viewportHeight="24" android:viewportWidth="24" android:width="24dp">
++      
++    <path android:fillColor="@android:color/white" android:pathData="M12,12c2.21,0 4,-1.79 4,-4s-1.79,-4 -4,-4 -4,1.79 -4,4 1.79,4 4,4zM12,14c-2.67,0 -8,1.34 -8,4v2h16v-2c0,-2.66 -5.33,-4 -8,-4z"/>
++    
++</vector>
