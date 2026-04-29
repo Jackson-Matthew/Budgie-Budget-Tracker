@@ -44,7 +44,7 @@ Budgie is a personal finance and budget tracking Android app. Users can register
 
 | Member | Student Number | Tasks |
 |---|---|---|
-| **Tayler** | ST10445063 | Room DB setup, User auth, Categories CRUD, Login/Dashboard |
+| **Tayler Usmar** | ST10445063 | Room DB setup, User auth, Categories CRUD, Login/Dashboard |
 | **Zain Labuschagne** | ST10442835 | Expense entry form (date, time, description, category, amount), photo capture (camera + gallery), validation, DB save 
 | **Matthew Jackson** | ST10445830 | Transaction history with date filtering, expense totals per category, monthly budget goals, dashboard budget indicators |
 
