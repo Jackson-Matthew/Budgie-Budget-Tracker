@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419543705425",
+    "project_id": "budgie-budgetapp",
+    "storage_bucket": "budgie-budgetapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419543705425:android:72f40657aa2d2f1e7d9570",
+        "android_client_info": {
+          "package_name": "com.example.budgie_budgetapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5vzldqApcZOo2woYE9kOjapTwFa494jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
